@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE_URL = "http://127.0.0.1:8000";
+  const API_BASE_URL = "https://mental-health-score-prediction-23pu.onrender.com";
   const PREDICT_ENDPOINT = `${API_BASE_URL}/predict`;
 
   const form = document.getElementById("predict-form");
