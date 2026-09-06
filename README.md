@@ -2,7 +2,7 @@
 
 A **production-ready full-stack machine learning web application** that predicts student mental health scores based on social media usage, sleep, study habits, physical activity, and stress levels.
 
-**🌐 Live Application:** [https://mental-health-score-prediction-23pu.onrender.com](https://mental-health-score-prediction-23pu.onrender.com)
+**🌐 Live Application:** [https://mental-health-score-prediction-23pu.onrender.com](https://mental-health-score-prediction-1-h1q7.onrender.com)
 
 **📊 GitHub Repository:** [github.com/tarunkumar7906/Mental-Health-Score-Prediction](https://github.com/tarunkumar7906/Mental-Health-Score-Prediction)
 
